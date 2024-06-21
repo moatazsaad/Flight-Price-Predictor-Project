@@ -25,5 +25,5 @@ Analyzed the distribution of flight distances, durations, and prices.
 - Deployed the best-performing model (XGBoost) on Streamlit for creating an interactive data science application.
 - Connected the project to Streamlit Cloud for wider accessibility.
 - You can interact with the deployed application on the cloud by visiting the following link:
-(https://flightpriceprediction-92mayfuvw6lfhbkapa6dd5.streamlit.app/)
+(flight-price-predictor-project-6uqqlsvkrxnnf2canznea4.streamlit.app)
 
